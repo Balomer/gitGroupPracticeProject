@@ -9,6 +9,9 @@ public class NvnSprint1TC005 {
         System.out.println("And after I push these codes and ask pull request,");
         System.out.println("I will finish HTML Part 1");
 
+        System.out.println("And done for now");
+        System.out.println("See you");
+
 
     }
 }
